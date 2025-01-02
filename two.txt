@@ -2,3 +2,4 @@ Testing branch
 Salem Alem Copy 2
 diff 2 to two.txt
 sth on two
+stashing example 2 to two
