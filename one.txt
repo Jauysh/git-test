@@ -10,3 +10,4 @@ edited on website
 diff 1 to one.txt
 salem git merge
 stashing example 1 to one
+untracked file changes stashign
