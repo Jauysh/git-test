@@ -1,3 +1,5 @@
+testing merges
+
 git revert commit 1
 
 
@@ -6,3 +8,4 @@ Let's test again
 ssh connected
 edited on website
 diff 1 to one.txt
+salem git merge
